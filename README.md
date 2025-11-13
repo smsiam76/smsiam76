@@ -17,7 +17,7 @@ I'm a passionate learner and programmer from Dinajpur. 🎓 I am currently pursu
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://www.linkedin.com/in/smsiam76/" target="_blank">
     <img alt="LinkedIn" title="Connect with me on LinkedIn"
-         src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+         src="https://img.shields.io/badge/LinkedIn-500%2B_connections-blue?style=for-the-badge&logo=linkedin"/>
   </a>
    </p>
 
