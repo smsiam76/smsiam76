@@ -16,9 +16,9 @@ I'm a passionate learner and programmer from Dinajpur. 🎓 I am currently pursu
        src="https://img.shields.io/badge/Facebook-750%2B-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
      <a href="https://github.com/smsiam76?tab=followers" target="_blank">
-  <img alt="GitHub followers" title="Follow me on GitHub"
-       src="https://custom-icon-badges.demolab.com/github/followers/smsiam76?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
+    <img alt="GitHub followers" title="Follow me on GitHub"
+         src="https://custom-icon-badges.demolab.com/github/followers/smsiam76?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
 
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
